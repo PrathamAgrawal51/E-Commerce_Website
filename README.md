@@ -21,4 +21,4 @@ A fully functional **E-Commerce Website** for selling **electronic gadgets**, fe
 
 1️⃣ **Clone the repository:**  
 ```sh
-https://github.com/PrathamAgrawal51/E-Commerce_Website.git
+git clone https://github.com/PrathamAgrawal51/E-Commerce_Website.git
