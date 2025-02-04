@@ -15,11 +15,7 @@ A fully functional **E-Commerce Website** for selling **electronic gadgets**, fe
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP / Node.js *(modify based on your stack)*  
 - **Database:** MySQL / PostgreSQL *(modify based on your DBMS)*  
-- **Email Service:** SMTP / Mail API for sending order confirmation emails  
-
-## 📸 Screenshots  
-
-*(Add images showcasing the UI, product page, cart, and billing page)*  
+- **Email Service:** SMTP / Mail API for sending order confirmation emails   
 
 ## 🏗️ Installation & Setup  
 
